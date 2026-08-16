@@ -34,7 +34,7 @@
                     "type" : "git",
                     "url" : "https://codeberg.org/grinka/transition.git",
                     "tag": "v3.1",
-					"commit": "945cec1207c506887f69442991bf0606f4da07f1"
+					"commit": "f62b316d1639aa1a7ea9a6761e9af20b968b66f4"
                 },
                 "cargo-sources.json",
                 {
